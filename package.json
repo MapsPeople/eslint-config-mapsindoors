@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-mapsindoors",
+  "version": "0.1.0",
+  "description": "Common eslint configuration for MapsIndoors JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MapsPeople A/S",
+  "private": true,
+  "peerDependencies": {
+    "eslint": ">= 4"
+  }
+}
