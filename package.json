@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-mapsindoors",
+  "version": "1.0.0",
+  "description": "ESLint shareable config used in MapsIndoors JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MapsPeople/eslint-config-mapsindoors.git"
+  },
+  "author": "MapsPeople",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MapsPeople/eslint-config-mapsindoors/issues"
+  },
+  "homepage": "https://github.com/MapsPeople/eslint-config-mapsindoors#readme",
+  "peerDependencies": {
+    "eslint": ">= 4"
+  }
+}
