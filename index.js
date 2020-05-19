@@ -17,7 +17,7 @@ module.exports = {
         "space-before-blocks": 1,
         'keyword-spacing': 1,
         'no-unused-vars': 1,
-        'indent': ["error", 4],
+        'indent': ["error", 4, { "SwitchCase": 1 }],
         'brace-style': ["error", "1tbs", { "allowSingleLine": true }]
     }
 };
