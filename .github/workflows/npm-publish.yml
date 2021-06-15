@@ -1,6 +1,6 @@
 # This workflow will publish the release as an NPM package
 
-name: Node.js Package
+name: Publish NPM package
 
 on:
   release:
