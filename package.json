@@ -1,6 +1,6 @@
 {
   "name": "@mapsindoors/eslint-config",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Common eslint configuration for MapsIndoors JavaScript projects",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 4",
-    "eslint-plugin-jsdoc": "^36.1.0"
+    "eslint-plugin-jsdoc": "^39.3.2"
   }
 }
