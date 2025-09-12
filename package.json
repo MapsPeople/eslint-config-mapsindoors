@@ -10,7 +10,7 @@
   "author": "MapsPeople A/S",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">= 4",
-    "eslint-plugin-jsdoc": "^39.3.2"
+    "eslint": "^9.35.0",
+    "eslint-plugin-jsdoc": "^56.1.2"
   }
 }
